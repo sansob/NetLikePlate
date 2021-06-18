@@ -1,0 +1,6 @@
+time="2021-04-25T01:43:35+07:00" level=info msg="incoming request" at="2021-04-25 01:43:35" ip="127.0.0.1:60246" method=GET supportId= uri=/test/testing1
+time="2021-04-25T01:43:35+07:00" level=error msg="Not Found" at="2021-04-25 01:43:35" ip="127.0.0.1:60246" method=GET supportId=ff14fa52-0a5f-4998-a37d-efb8906a4fdd uri=/test/testing1
+time="2021-04-25T01:44:57+07:00" level=info msg="incoming request" at="2021-04-25 01:44:57" ip="127.0.0.1:60322" method=GET supportId= uri=/test/testing
+time="2021-04-25T01:44:58+07:00" level=info msg="incoming request" at="2021-04-25 01:44:58" ip="127.0.0.1:60322" method=GET supportId= uri=/test/testing
+time="2021-04-25T01:47:23+07:00" level=info msg="incoming request" at="2021-04-25 01:47:23" ip="127.0.0.1:60484" method=GET supportId= uri=/test/testing
+time="2021-04-25T01:48:40+07:00" level=error msg="Not Found" at="2021-04-25 01:48:40" ip="127.0.0.1:60508" method=GET supportId=c9c12087-57e7-4937-87ae-1abf4ab57979 uri=/test/testing111
